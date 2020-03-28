@@ -9,7 +9,9 @@ The Uncomplete GABB Source Code, full on Reji's discord Server.
 - To protect our competitors. While it is expected of us to supplant our competitors, we do not condone unfair marketing practices or hurtful behavior towards them. The perpetrator has allegedly obtained identifying information about our competitors, and we do not want it to be included or otherwise spread by his releases.
 
 # Contact
+
 [@Reji's](https://discordapp.com/invite/wTNMrHV) - Founder and Owner of GABB
+
 [@BillyTheButcher](https://github.com/BillytheButcher) - feel free to contact me
 
 
