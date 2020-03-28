@@ -1,6 +1,9 @@
 # GABB
 The Uncomplete GABB Source Code, full on Reji's discord Server.
 
+![Screenshot](https://i.imgur.com/2foB84Z.png)
+
+
 ## Why have we decided to do this?
 - The source code fell into the wrong hands, and the one that perpetrated such a thing is willing to sell the source code for monetary gain. Rather than having some poor people waste hundreds of dollars for an older version of the source code to our project, we highly prefer releasing it for free and have it be an educational opportunity for many.
 - We are unsure if the perpetrator is actually willing to release the source code. However, it is best to take no chances and release it ourselves in his place to a guarantee a proper release.
